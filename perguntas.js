@@ -30,4 +30,3 @@ criaCartao(
     'Química',
     'TERMOQUÍMICA?',
     'È a ciencia que estuda a vorração energética através do calor.'
-)
