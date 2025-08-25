@@ -1,4 +1,20 @@
 criaCartao(
+    criaCartao(
+    'Química',
+    'O QUE É ENERGÍA DE TIVAÇÃO?',
+    'É a barreira que as moléculas precisam para a reação acontecer.'
+)
+
+criaCartao(
+    'Química',
+    'FATORES QUE IMFLUEMCIAM A VELOCIDADE DA REAÇÃO?',
+    '-Concentração dos reagentes.
+     -Temperatura.
+     -Superficie de contato.
+     -Catalisadores.
+     -Pressão.'
+)
+
     'Química',
     'O que é matéria?',
     'É tudo aquilo que tem massa e ocupa lugar no espaço.'
