@@ -16,18 +16,18 @@ criaCartao(
 )
 
     'Química',
-    'O que é matéria?',
-    'É tudo aquilo que tem massa e ocupa lugar no espaço.'
+    'O QUE É CINÉTICA QUÍMICA?',
+    'È o ramo da química que estuda a velocidades das reações e os fatores que a influenciam.'
 )
 
 criaCartao(
     'Química',
-    'A massa, o peso e o volume são propriedades da matéria?',
-    'Gerais.'
+    'QUE É ENERGÍA ELETRICA?',
+    'È obidada conversão de outras formas de energía nas usinas hidrelétricas, termelétrica e nucleares, do vento, das marés, etc......'
 )
 
 criaCartao(
     'Química',
-    'A temperatura na qual uma sustância sólida passa ao estado líquido denomina-se?',
-    'Ponto de fusão.'
+    'TERMOQUÍMICA?',
+    'È a ciencia que estuda a vorração energética através do calor.'
 )
