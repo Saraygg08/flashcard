@@ -2,7 +2,7 @@ criaCartao(
     criaCartao(
     'Química',
     'O QUE É ENERGÍA DE TIVAÇÃO?',
-    'É a barreira que as moléculas precisam para a reação acontecer.'
+    'É a barreira que as moléculas precisam colidar para a reação acontecer.'
 )
 
 criaCartao(
